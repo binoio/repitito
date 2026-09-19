@@ -24,4 +24,8 @@ Repitito is a Windows desktop application that captures keyboard input and repla
 
 > Tip: Use the **Delete Row** button or drag handles to curate your playlist of key events.
 
-<div class="footer-note">Made with AFK in mind.</div>
+<footer class="app-footer">
+  <p>&copy; 2026 Michael Bino</p>
+  <p>Part of the Binoio Family of Apps</p>
+  <p>Released under the MIT License. <a href="https://github.com/binoio/repitito">View on GitHub</a></p>
+</footer>
