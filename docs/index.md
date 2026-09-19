@@ -4,16 +4,16 @@ layout: default
 
 # Repitito
 
-🎹 Repitito is a Windows desktop application that captures keyboard input and replays it on demand.
+Repitito is a Windows desktop application that captures keyboard input and replays it on demand.
 
 ## Features {#features}
 
-- 🎬 **One-click record & replay** – Capture timings, characters, and modifier combos, then play them back perfectly.
-- 🎛️ **Inline editing galore** – Fix keys, tweak delays, or jot a comment without leaving the table.
-- 🎲 **Playful randomness** – Speed, variance, and jitter controls to keep your macros from being predictable.
-- 🧲 **Global hotkey** – Tap <kbd>F8</kbd> from anywhere to start or stop playback.
-- 🧷 **Import & export** – Share recordings as tidy JSON files with schema validation.
-- 🛡️ **Thorough tests** – A custom test harness keeps the wizardry reliable.
+- **One-click record & replay** – Capture timings, characters, and modifier combos, then play them back perfectly.
+- **Inline editing galore** – Fix keys, tweak delays, or jot a comment without leaving the table.
+- **Playful randomness** – Speed, variance, and jitter controls to keep your macros from being predictable.
+- **Global hotkey** – Tap <kbd>F8</kbd> from anywhere to start or stop playback.
+- **Import & export** – Share recordings as tidy JSON files with schema validation.
+- **Thorough tests** – A custom test harness keeps the wizardry reliable.
 
 ## Getting Started {#getting-started}
 
